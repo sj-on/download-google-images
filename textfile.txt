@@ -1,0 +1,7 @@
+Embed YT videos as audio files.
+
+<div data-video="n1zpnN-6pZQ"
+         data-autoplay="0"
+         data-loop="1"
+         id="youtube-audio">
+</div>
